@@ -22,6 +22,8 @@ Computer with MATLAB software
 <img width="1087" height="516" alt="Screenshot 2026-09-03 134152" src="https://github.com/user-attachments/assets/8cfd1801-8a72-4b8d-b328-1184d5a1dfa8" />
 
 ## Output:
+<img width="1406" height="1065" alt="WhatsApp Image 2026-09-12 at 5 22 13 PM" src="https://github.com/user-attachments/assets/3a83ab06-64c9-416e-83f2-30052086ec81" />
+
 <img width="700" height="626" alt="Screenshot 2026-09-03 134332" src="https://github.com/user-attachments/assets/df7ac61f-2300-4d5a-88a9-344745c8c00e" />
 
 ## Result:
